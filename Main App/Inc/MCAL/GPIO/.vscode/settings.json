@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "gpio_interface.h": "c",
+        "bit_math.h": "c",
+        "std_types.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}

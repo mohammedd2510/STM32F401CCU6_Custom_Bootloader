@@ -1,0 +1,11 @@
+../Src/MCAL/RCC/RCC_program.c:20:13:RCC_void_HSI_Init	2
+../Src/MCAL/RCC/RCC_program.c:30:13:RCC_void_HSE_Init	2
+../Src/MCAL/RCC/RCC_program.c:39:13:RCC_void_PLL_Init	2
+../Src/MCAL/RCC/RCC_program.c:68:13:RCC_void_AHB1Prescaler_Init	1
+../Src/MCAL/RCC/RCC_program.c:99:13:RCC_void_APB1Prescaler_Init	1
+../Src/MCAL/RCC/RCC_program.c:118:13:RCC_void_APB2Prescaler_Init	1
+../Src/MCAL/RCC/RCC_program.c:138:6:RCC_voidInit	1
+../Src/MCAL/RCC/RCC_program.c:153:6:RCC_voidEnableClockSource	4
+../Src/MCAL/RCC/RCC_program.c:172:6:RCC_voidDisableClockSource	4
+../Src/MCAL/RCC/RCC_program.c:191:6:RCC_voidEnablePeripheralClock	5
+../Src/MCAL/RCC/RCC_program.c:211:6:RCC_voidDisablePeripheralClock	5

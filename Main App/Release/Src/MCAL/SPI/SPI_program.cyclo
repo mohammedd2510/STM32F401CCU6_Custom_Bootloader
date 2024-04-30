@@ -1,0 +1,2 @@
+../Src/MCAL/SPI/SPI_program.c:41:6:MSPI1_voidInit	1
+../Src/MCAL/SPI/SPI_program.c:45:4:MSPI1_u8TranscieveSynchronous	2

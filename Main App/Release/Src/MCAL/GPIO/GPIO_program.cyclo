@@ -1,0 +1,14 @@
+../Src/MCAL/GPIO/GPIO_program.c:10:6:GPIO_voidSetPinMode	4
+../Src/MCAL/GPIO/GPIO_program.c:32:6:GPIO_voidSetPinOutputMode	4
+../Src/MCAL/GPIO/GPIO_program.c:52:6:GPIO_voidSetPinOutputSpeed	4
+../Src/MCAL/GPIO/GPIO_program.c:77:6:GPIO_voidSetPinValue	10
+../Src/MCAL/GPIO/GPIO_program.c:109:6:GPIO_voidSetPinPullUpDownResistor	4
+../Src/MCAL/GPIO/GPIO_program.c:132:4:GPIO_u8GetPinValue	4
+../Src/MCAL/GPIO/GPIO_program.c:150:6:GPIO_voidLockPin	4
+../Src/MCAL/GPIO/GPIO_program.c:176:6:GPIO_voidSetPortMode	4
+../Src/MCAL/GPIO/GPIO_program.c:191:6:GPIO_voidSetPortOutputMode	4
+../Src/MCAL/GPIO/GPIO_program.c:207:6:GPIO_voidSetPortOutputSpeed	4
+../Src/MCAL/GPIO/GPIO_program.c:223:6:GPIO_voidSetPortValue	10
+../Src/MCAL/GPIO/GPIO_program.c:254:6:GPIO_voidSetPortPullUpDownResistor	4
+../Src/MCAL/GPIO/GPIO_program.c:270:5:GPIO_u32GetPortValue	4
+../Src/MCAL/GPIO/GPIO_program.c:288:6:GPIO_voidLockPort	4

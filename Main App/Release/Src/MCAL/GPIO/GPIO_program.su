@@ -1,0 +1,14 @@
+../Src/MCAL/GPIO/GPIO_program.c:10:6:GPIO_voidSetPinMode	8	static
+../Src/MCAL/GPIO/GPIO_program.c:32:6:GPIO_voidSetPinOutputMode	8	static
+../Src/MCAL/GPIO/GPIO_program.c:52:6:GPIO_voidSetPinOutputSpeed	8	static
+../Src/MCAL/GPIO/GPIO_program.c:77:6:GPIO_voidSetPinValue	0	static
+../Src/MCAL/GPIO/GPIO_program.c:109:6:GPIO_voidSetPinPullUpDownResistor	8	static
+../Src/MCAL/GPIO/GPIO_program.c:132:4:GPIO_u8GetPinValue	0	static
+../Src/MCAL/GPIO/GPIO_program.c:150:6:GPIO_voidLockPin	0	static
+../Src/MCAL/GPIO/GPIO_program.c:176:6:GPIO_voidSetPortMode	0	static
+../Src/MCAL/GPIO/GPIO_program.c:191:6:GPIO_voidSetPortOutputMode	0	static
+../Src/MCAL/GPIO/GPIO_program.c:207:6:GPIO_voidSetPortOutputSpeed	0	static
+../Src/MCAL/GPIO/GPIO_program.c:223:6:GPIO_voidSetPortValue	0	static
+../Src/MCAL/GPIO/GPIO_program.c:254:6:GPIO_voidSetPortPullUpDownResistor	0	static
+../Src/MCAL/GPIO/GPIO_program.c:270:5:GPIO_u32GetPortValue	0	static
+../Src/MCAL/GPIO/GPIO_program.c:288:6:GPIO_voidLockPort	0	static

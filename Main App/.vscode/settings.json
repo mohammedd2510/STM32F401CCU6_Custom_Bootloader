@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "exti_interface.h": "c",
+        "exti_private.h": "c"
+    }
+}

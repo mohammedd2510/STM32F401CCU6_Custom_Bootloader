@@ -1,0 +1,5 @@
+../Src/MCAL/RCC/RCC_program.c:138:6:RCC_voidInit	2
+../Src/MCAL/RCC/RCC_program.c:153:6:RCC_voidEnableClockSource	4
+../Src/MCAL/RCC/RCC_program.c:172:6:RCC_voidDisableClockSource	4
+../Src/MCAL/RCC/RCC_program.c:191:6:RCC_voidEnablePeripheralClock	4
+../Src/MCAL/RCC/RCC_program.c:211:6:RCC_voidDisablePeripheralClock	4

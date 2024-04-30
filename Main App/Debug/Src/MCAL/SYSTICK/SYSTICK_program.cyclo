@@ -1,0 +1,14 @@
+../Src/MCAL/SYSTICK/SYSTICK_program.c:15:6:MSysTick_voidInit	1
+../Src/MCAL/SYSTICK/SYSTICK_program.c:40:6:MSysTick_voidDeInit	1
+../Src/MCAL/SYSTICK/SYSTICK_program.c:51:6:MSysTick_voidSetBusyWait	2
+../Src/MCAL/SYSTICK/SYSTICK_program.c:63:6:MSysTick_voidSetIntervalSingle	2
+../Src/MCAL/SYSTICK/SYSTICK_program.c:82:6:MSysTick_voidSetIntervalPeriodic	2
+../Src/MCAL/SYSTICK/SYSTICK_program.c:101:5:MSysTick_u32GetElapsedTicks	1
+../Src/MCAL/SYSTICK/SYSTICK_program.c:109:5:MSysTick_u32GetElapsedTime_us	1
+../Src/MCAL/SYSTICK/SYSTICK_program.c:119:5:MSysTick_u32GetRemainingTicks	1
+../Src/MCAL/SYSTICK/SYSTICK_program.c:128:6:MSystick_voidResetTimer	1
+../Src/MCAL/SYSTICK/SYSTICK_program.c:133:6:MSystick_voidSetPreloadvalue	1
+../Src/MCAL/SYSTICK/SYSTICK_program.c:138:6:SysTick_Handler	3
+../Src/MCAL/SYSTICK/SYSTICK_program.c:150:6:MSystick_Delay_ms	3
+../Src/MCAL/SYSTICK/SYSTICK_program.c:168:6:MSystick_Delay_us	3
+../Src/MCAL/SYSTICK/SYSTICK_program.c:187:6:MSysTick_void_ASYNC_Delay_ms	3
